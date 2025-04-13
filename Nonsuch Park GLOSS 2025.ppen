@@ -1,0 +1,314 @@
+﻿<course-scribe-event>
+  <event id="1">
+    <title>Nonsuch Park GLOSS 2025</title>
+    <map kind="OCAD" scale="10000" ignore-missing-fonts="false" absolute-path="C:\Users\home\OneDrive\Desktop\Share\PurplePen\Nonsuch2020.ocd">Nonsuch2020.ocd</map>
+    <standards map="2017" description="2018" />
+    <all-controls print-scale="10000" description-kind="symbols" />
+    <print-area automatic="true" restrict-to-page-size="true" left="12.6110077" top="71.9230042" right="222.669022" bottom="-225.002991" page-width="827" page-height="1169" page-margins="0" page-landscape="false" />
+    <numbering start="181" disallow-invertible="true" />
+    <punch-card rows="3" columns="8" left-to-right="true" top-to-bottom="false" />
+    <course-appearance scale-sizes="RelativeTo15000" scale-sizes-circle-gaps="true" number-font="Roboto" auto-leg-gap-size="3.5" blend-purple="true" blend-style="blend" />
+    <descriptions lang="en-GB" color="black" />
+    <ocad overprint-colors="false" />
+  </event>
+  <control id="1" kind="start">
+    <location x="169.498154" y="-53.30902" />
+    <description box="D" iof-2004-ref="4.9" />
+    <description box="E" iof-2004-ref="8.10" />
+    <description box="G" iof-2004-ref="11.1W" />
+  </control>
+  <control id="2" kind="normal">
+    <code>181</code>
+    <location x="154.562988" y="3.32237673" />
+    <description box="D" iof-2004-ref="5.9" />
+  </control>
+  <control id="3" kind="normal">
+    <code>182</code>
+    <location x="131.380417" y="18.790781" />
+    <description box="D" iof-2004-ref="4.7" />
+  </control>
+  <control id="4" kind="normal">
+    <code>183</code>
+    <location x="96.3377" y="-1.84854078" />
+    <description box="D" iof-2004-ref="5.2" />
+    <description box="F" iof-2004-ref="10.2" />
+  </control>
+  <control id="5" kind="normal">
+    <code>184</code>
+    <location x="72.15382" y="-34.65688" />
+    <description box="D" iof-2004-ref="3.2" />
+    <description box="G" iof-2004-ref="11.1S" />
+  </control>
+  <control id="7" kind="normal">
+    <code>187</code>
+    <location x="125.971031" y="-46.29855" />
+    <description box="D" iof-2004-ref="6.1" />
+  </control>
+  <control id="34" kind="normal">
+    <code>192</code>
+    <location x="156.792648" y="-62.3069" />
+    <description box="D" iof-2004-ref="4.10" />
+  </control>
+  <control id="35" kind="normal">
+    <code>190</code>
+    <location x="115.4932" y="-37.2336426" />
+    <description box="D" iof-2004-ref="6.1" />
+  </control>
+  <control id="13" kind="normal">
+    <code>197</code>
+    <location x="115.254494" y="-68.72249" />
+    <description box="D" iof-2004-ref="4.5" />
+    <description box="G" iof-2004-ref="11.1S" />
+  </control>
+  <control id="14" kind="normal">
+    <code>200</code>
+    <location x="103.215965" y="-23.2141476" />
+    <description box="D" iof-2004-ref="4.10" />
+  </control>
+  <control id="15" kind="normal">
+    <code>201</code>
+    <location x="151.1304" y="-54.2669067" />
+    <description box="D" iof-2004-ref="6.1" />
+  </control>
+  <control id="16" kind="normal">
+    <code>202</code>
+    <location x="166.501114" y="-28.0506821" />
+    <description box="D" iof-2004-ref="5.2" />
+    <description box="F" iof-2004-ref="10.2" />
+  </control>
+  <control id="17" kind="normal">
+    <code>203</code>
+    <location x="60.4002342" y="-85.28501" />
+    <description box="D" iof-2004-ref="4.9" />
+    <description box="E" iof-2004-ref="8.10" />
+    <description box="G" iof-2004-ref="11.1S" />
+  </control>
+  <control id="18" kind="normal">
+    <code>204</code>
+    <location x="92.74124" y="-52.7406921" />
+    <description box="D" iof-2004-ref="6.1" />
+  </control>
+  <control id="19" kind="finish">
+    <location x="157.8524" y="-63.29853" />
+    <description box="all" iof-2004-ref="14.3" />
+  </control>
+  <control id="20" kind="normal">
+    <code>205</code>
+    <location x="138.537827" y="-75.34436" />
+    <description box="D" iof-2004-ref="5.2" />
+    <description box="F" iof-2004-ref="10.2" />
+    <description box="G" iof-2004-ref="11.1S" />
+  </control>
+  <control id="23" kind="normal">
+    <code>208</code>
+    <location x="133.249176" y="-38.62069" />
+    <description box="D" iof-2004-ref="5.2" />
+    <description box="F" iof-2004-ref="10.2" />
+  </control>
+  <control id="24" kind="normal">
+    <code>209</code>
+    <location x="106.661018" y="-32.51098" />
+    <description box="D" iof-2004-ref="4.9" />
+    <description box="E" iof-2004-ref="8.10" />
+    <description box="G" iof-2004-ref="11.1E" />
+  </control>
+  <control id="25" kind="normal">
+    <code>210</code>
+    <location x="117.371147" y="-55.22875" />
+    <description box="D" iof-2004-ref="5.2" />
+    <description box="F" iof-2004-ref="10.2" />
+  </control>
+  <control id="29" kind="normal">
+    <code>214</code>
+    <location x="88.39491" y="-85.59213" />
+    <description box="D" iof-2004-ref="4.9" />
+    <description box="E" iof-2004-ref="8.10" />
+    <description box="G" iof-2004-ref="11.1S" />
+  </control>
+  <control id="30" kind="normal">
+    <code>215</code>
+    <location x="119.487122" y="4.10379457" />
+    <description box="D" iof-2004-ref="6.1" />
+  </control>
+  <control id="33" kind="normal">
+    <code>218</code>
+    <location x="104.405533" y="-9.059366" />
+    <description box="D" iof-2004-ref="6.1" />
+  </control>
+  <course id="1" kind="normal" order="1">
+    <name>Yellow</name>
+    <labels label-kind="sequence" />
+    <first course-control="1" />
+    <print-area automatic="true" restrict-to-page-size="true" left="12.6110077" top="71.9230042" right="222.669022" bottom="-225.002991" page-width="827" page-height="1169" page-margins="0" page-landscape="false" />
+    <options print-scale="10000" hide-from-reports="false" description-kind="symbols" />
+  </course>
+  <course id="2" kind="normal" order="2">
+    <name>GLOSS</name>
+    <labels label-kind="sequence" />
+    <first course-control="3" />
+    <print-area automatic="true" restrict-to-page-size="true" left="12.6110077" top="71.9230042" right="222.669022" bottom="-225.002991" page-width="827" page-height="1169" page-margins="0" page-landscape="false" />
+    <options print-scale="10000" hide-from-reports="false" description-kind="symbols" />
+  </course>
+  <course id="3" kind="normal" order="3">
+    <name>GLOSS+Extension</name>
+    <labels label-kind="sequence" />
+    <first course-control="39" />
+    <print-area automatic="true" restrict-to-page-size="true" left="12.6110077" top="71.9230042" right="222.669022" bottom="-225.002991" page-width="827" page-height="1169" page-margins="0" page-landscape="false" />
+    <options print-scale="10000" hide-from-reports="false" description-kind="symbols" />
+  </course>
+  <course-control id="1" control="1">
+    <next course-control="6" />
+  </course-control>
+  <course-control id="2" control="19" />
+  <course-control id="3" control="1">
+    <next course-control="13" />
+  </course-control>
+  <course-control id="4" control="19" />
+  <course-control id="35" control="30">
+    <next course-control="33" />
+  </course-control>
+  <course-control id="6" control="15">
+    <next course-control="7" />
+  </course-control>
+  <course-control id="7" control="23">
+    <next course-control="8" />
+  </course-control>
+  <course-control id="8" control="30">
+    <next course-control="9" />
+  </course-control>
+  <course-control id="9" control="33">
+    <next course-control="10" />
+  </course-control>
+  <course-control id="10" control="24">
+    <next course-control="11" />
+  </course-control>
+  <course-control id="11" control="25">
+    <next course-control="12" />
+  </course-control>
+  <course-control id="12" control="20">
+    <next course-control="2" />
+  </course-control>
+  <course-control id="13" control="16">
+    <next course-control="15" />
+  </course-control>
+  <course-control id="15" control="2">
+    <next course-control="17" />
+  </course-control>
+  <course-control id="33" control="4">
+    <next course-control="18" />
+  </course-control>
+  <course-control id="17" control="3">
+    <next course-control="35" />
+  </course-control>
+  <course-control id="18" control="14">
+    <next course-control="23" />
+  </course-control>
+  <course-control id="20" control="29">
+    <next course-control="38" />
+  </course-control>
+  <course-control id="38" control="35">
+    <next course-control="64" />
+  </course-control>
+  <course-control id="23" control="5">
+    <next course-control="20" />
+  </course-control>
+  <course-control id="39" control="1">
+    <next course-control="40" />
+  </course-control>
+  <course-control id="62" control="15">
+    <next course-control="55" />
+  </course-control>
+  <course-control id="64" control="25">
+    <next course-control="63" />
+  </course-control>
+  <course-control id="61" control="20">
+    <next course-control="49" />
+  </course-control>
+  <course-control id="65" control="25">
+    <next course-control="61" />
+  </course-control>
+  <course-control id="40" control="16">
+    <next course-control="41" />
+  </course-control>
+  <course-control id="41" control="2">
+    <next course-control="42" />
+  </course-control>
+  <course-control id="42" control="3">
+    <next course-control="43" />
+  </course-control>
+  <course-control id="43" control="30">
+    <next course-control="44" />
+  </course-control>
+  <course-control id="44" control="4">
+    <next course-control="45" />
+  </course-control>
+  <course-control id="45" control="14">
+    <next course-control="46" />
+  </course-control>
+  <course-control id="46" control="5">
+    <next course-control="47" />
+  </course-control>
+  <course-control id="47" control="29">
+    <next course-control="48" />
+  </course-control>
+  <course-control id="48" control="35">
+    <next course-control="65" />
+  </course-control>
+  <course-control id="49" control="34" map-exchange="true" map-flip="true">
+    <next course-control="50" />
+  </course-control>
+  <course-control id="50" control="23">
+    <next course-control="51" />
+  </course-control>
+  <course-control id="51" control="18">
+    <next course-control="52" />
+  </course-control>
+  <course-control id="52" control="17">
+    <next course-control="53" />
+  </course-control>
+  <course-control id="53" control="13">
+    <next course-control="54" />
+  </course-control>
+  <course-control id="54" control="7">
+    <next course-control="62" />
+  </course-control>
+  <course-control id="55" control="19" />
+  <course-control id="63" control="20">
+    <next course-control="4" />
+  </course-control>
+  <special-object id="2" kind="descriptions">
+    <location x="17.2810135" y="58.7963448" />
+    <location x="22.5519333" y="58.7963448" />
+    <courses>
+      <course course="0" />
+    </courses>
+  </special-object>
+  <special-object id="3" kind="descriptions">
+    <location x="19.0459785" y="12.4263039" />
+    <location x="25.888813" y="12.4263039" />
+    <courses>
+      <course course="1" />
+    </courses>
+  </special-object>
+  <special-object id="4" kind="descriptions">
+    <location x="20.1130714" y="-74.69029" />
+    <location x="24.984087" y="-74.69029" />
+    <courses>
+      <course course="2" />
+    </courses>
+  </special-object>
+  <special-object id="5" kind="descriptions">
+    <location x="20.5955353" y="-55.6187134" />
+    <location x="26.4398" y="-55.6187134" />
+    <courses>
+      <course course="3" part="0" />
+    </courses>
+  </special-object>
+  <special-object id="6" kind="descriptions">
+    <location x="22.4730682" y="-98.5336761" />
+    <location x="27.5323944" y="-98.5336761" />
+    <courses>
+      <course course="3" part="1" />
+    </courses>
+  </special-object>
+</course-scribe-event>
