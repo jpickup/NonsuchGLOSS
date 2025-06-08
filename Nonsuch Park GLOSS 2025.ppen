@@ -1,7 +1,7 @@
 ﻿<course-scribe-event>
   <event id="1">
     <title>Nonsuch Park GLOSS 2025</title>
-    <map kind="OCAD" scale="10000" ignore-missing-fonts="false" absolute-path="C:\Users\home\OneDrive\Desktop\Share\PurplePen\Nonsuch2020.ocd">Nonsuch2020.ocd</map>
+    <map kind="OCAD" scale="10000" ignore-missing-fonts="false" absolute-path="C:\Users\home\OneDrive\Desktop\Share\PurplePen\Nonsuch GLOSS 2025\Nonsuch2024.ocd">Nonsuch2024.ocd</map>
     <standards map="2017" description="2018" />
     <all-controls print-scale="10000" description-kind="symbols" />
     <print-area automatic="true" restrict-to-page-size="true" left="12.6110077" top="71.9230042" right="222.669022" bottom="-225.002991" page-width="827" page-height="1169" page-margins="0" page-landscape="false" />
@@ -19,8 +19,10 @@
   </control>
   <control id="2" kind="normal">
     <code>181</code>
-    <location x="154.562988" y="3.32237673" />
-    <description box="D" iof-2004-ref="5.9" />
+    <location x="139.349442" y="-16.5213776" />
+    <description box="D" iof-2004-ref="4.9" />
+    <description box="E" iof-2004-ref="8.10" />
+    <description box="G" iof-2004-ref="11.1N" />
   </control>
   <control id="3" kind="normal">
     <code>182</code>
@@ -69,6 +71,7 @@
     <code>201</code>
     <location x="151.1304" y="-54.2669067" />
     <description box="D" iof-2004-ref="6.1" />
+    <description box="F">Seat</description>
   </control>
   <control id="16" kind="normal">
     <code>202</code>
@@ -129,18 +132,20 @@
     <code>215</code>
     <location x="119.487122" y="4.10379457" />
     <description box="D" iof-2004-ref="6.1" />
+    <description box="F">Seat</description>
   </control>
   <control id="33" kind="normal">
     <code>218</code>
     <location x="104.405533" y="-9.059366" />
     <description box="D" iof-2004-ref="6.1" />
+    <description box="F">Seat</description>
   </control>
   <course id="1" kind="normal" order="1">
     <name>Yellow</name>
     <labels label-kind="sequence" />
     <first course-control="1" />
-    <print-area automatic="true" restrict-to-page-size="true" left="12.6110077" top="71.9230042" right="222.669022" bottom="-225.002991" page-width="827" page-height="1169" page-margins="0" page-landscape="false" />
-    <options print-scale="10000" hide-from-reports="false" description-kind="symbols" />
+    <print-area automatic="true" restrict-to-page-size="true" left="12.4114838" top="71.9230042" right="222.4695" bottom="-225.002991" page-width="827" page-height="1169" page-margins="0" page-landscape="false" />
+    <options print-scale="10000" hide-from-reports="false" description-kind="text" />
   </course>
   <course id="2" kind="normal" order="2">
     <name>GLOSS</name>
@@ -215,9 +220,6 @@
   <course-control id="39" control="1">
     <next course-control="40" />
   </course-control>
-  <course-control id="62" control="15">
-    <next course-control="55" />
-  </course-control>
   <course-control id="64" control="25">
     <next course-control="63" />
   </course-control>
@@ -270,7 +272,7 @@
     <next course-control="54" />
   </course-control>
   <course-control id="54" control="7">
-    <next course-control="62" />
+    <next course-control="55" />
   </course-control>
   <course-control id="55" control="19" />
   <course-control id="63" control="20">
@@ -284,8 +286,8 @@
     </courses>
   </special-object>
   <special-object id="3" kind="descriptions">
-    <location x="19.0459785" y="12.4263039" />
-    <location x="25.888813" y="12.4263039" />
+    <location x="19.0459633" y="-54.78643" />
+    <location x="27.64444" y="-54.78643" />
     <courses>
       <course course="1" />
     </courses>
