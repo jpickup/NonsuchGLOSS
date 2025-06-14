@@ -51,8 +51,9 @@
   </control>
   <control id="35" kind="normal">
     <code>190</code>
-    <location x="91.8315048" y="-45.95111" />
-    <description box="D" iof-2004-ref="4.7" />
+    <location x="108.726219" y="-75.2725143" />
+    <description box="D" iof-2004-ref="4.8" />
+    <description box="G" iof-2004-ref="11.1S" />
   </control>
   <control id="13" kind="normal">
     <code>197</code>
@@ -294,15 +295,15 @@
     <next course-control="10" />
   </course-control>
   <special-object id="2" kind="descriptions">
-    <location x="17.2810135" y="58.7963448" />
-    <location x="22.5519333" y="58.7963448" />
+    <location x="173.658112" y="-81.0964355" />
+    <location x="178.929047" y="-81.0964355" />
     <courses>
       <course course="0" />
     </courses>
   </special-object>
   <special-object id="3" kind="descriptions">
-    <location x="19.0459633" y="-54.78643" />
-    <location x="27.64444" y="-54.78643" />
+    <location x="19.0459633" y="-46.40908" />
+    <location x="27.64444" y="-46.40908" />
     <courses>
       <course course="1" />
     </courses>
