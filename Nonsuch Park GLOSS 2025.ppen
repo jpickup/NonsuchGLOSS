@@ -20,7 +20,7 @@
     <code>181</code>
     <location x="139.349442" y="-16.5213776" />
     <description box="D" iof-2004-ref="4.9" />
-    <description box="E" iof-2004-ref="8.10" />
+    <description box="F">Dead</description>
     <description box="G" iof-2004-ref="11.1N" />
   </control>
   <control id="3" kind="normal">
@@ -36,9 +36,8 @@
   </control>
   <control id="5" kind="normal">
     <code>184</code>
-    <location x="67.3384552" y="-37.3136253" />
-    <description box="D" iof-2004-ref="3.2" />
-    <description box="G" iof-2004-ref="11.1S" />
+    <location x="82.45591" y="-33.7617569" />
+    <description box="D" iof-2004-ref="5.4" />
   </control>
   <control id="7" kind="normal">
     <code>187</code>
@@ -47,8 +46,8 @@
   </control>
   <control id="34" kind="normal">
     <code>192</code>
-    <location x="156.875671" y="-68.45064" />
-    <description box="D" iof-2004-ref="4.1" />
+    <location x="157.139862" y="-69.47804" />
+    <description box="D" iof-2004-ref="4.7" />
   </control>
   <control id="35" kind="normal">
     <code>190</code>
@@ -65,6 +64,7 @@
     <code>200</code>
     <location x="102.053635" y="-21.71972" />
     <description box="D" iof-2004-ref="1.4" />
+    <description box="G" iof-2004-ref="11.13" />
   </control>
   <control id="15" kind="normal">
     <code>201</code>
@@ -80,11 +80,10 @@
   </control>
   <control id="17" kind="normal">
     <code>203</code>
-    <location x="60.31721" y="-84.8698959" />
+    <location x="55.7085876" y="-88.97949" />
     <description box="C" iof-2004-ref="0.2NE" />
-    <description box="D" iof-2004-ref="4.9" />
-    <description box="E" iof-2004-ref="8.10" />
-    <description box="G" iof-2004-ref="11.1S" />
+    <description box="D" iof-2004-ref="5.2" />
+    <description box="F" iof-2004-ref="10.2" />
   </control>
   <control id="18" kind="normal">
     <code>204</code>
